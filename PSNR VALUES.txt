@@ -1,0 +1,6 @@
+========== PSNR Values for Dehazing Versions ==========
+Version 1 (Base): 10.77 dB
+Version 2 (Airlight): 13.27 dB
+Version 3 (Transmission): 9.81 dB
+Version 4 (Gamma): nan dB
+Version 5 (Final): 16.41 dB
