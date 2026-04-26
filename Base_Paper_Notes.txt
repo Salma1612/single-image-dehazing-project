@@ -1,0 +1,7 @@
+Title:
+Single Image Dehazing using Haze Hue Prior and Haze Saturation Prior
+
+Used baseline ideas:
+- Atmospheric light estimation
+- Transmission estimation
+- Scene radiance recovery
