@@ -1,0 +1,19 @@
+Description of Changes Made
+
+1. Implemented baseline dehazing method using Dark Channel Prior.
+
+2. Modified atmospheric light estimation by selecting bright candidate pixels instead of direct max intensity.
+
+3. Tuned transmission coefficient to improve haze removal.
+
+4. Added transmission lower bound clipping to reduce artifacts.
+
+5. Added mild gamma correction for brightness improvement.
+
+6. Improved contrast and clarity after scene recovery.
+
+7. Added PSNR and SSIM metric evaluation.
+
+8. Saved all outputs automatically.
+
+9. Final improved method produced better PSNR and SSIM than baseline.
